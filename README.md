@@ -1,2 +1,2 @@
 # dotfiles
-Mac OS configuration files bash
+Mac OS configuration files ```bash```
